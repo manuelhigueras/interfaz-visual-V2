@@ -1,0 +1,78 @@
+/* 
+    Created on : 10-dic-2020, 9:49:15
+    Author     : user
+*/
+
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+button{
+    color: white;
+}
+
+body{
+    text-align: center;
+}
+
+#menu{
+   padding-top: 15px;
+}
+
+#cabecera {
+    background: rgba(0,123,255,.25);
+    border: 1px solid #999999;
+    padding: 20px;
+    text-align: center;
+}
+
+#seccion {
+    float: left;
+/*    width: 20px;*/
+    width: 350px;
+    margin: 20px;
+}
+
+#seccionBlock {
+    float: left;
+/*    width: 20px;*/
+    width: 350px;
+    margin: 0px 370px;
+    padding-top: 20px;
+}
+
+#columna {
+    float: right;
+    width: 200px;
+    margin: 20px 450px;
+    padding: 20px;
+    background: #CCCCCC;
+}
+
+#pie {
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid #999999;
+}
+
+article {
+    background: rgba(0,123,255,.25);
+    border: 1px solid #999999;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+article footer {
+    text-align: right;
+}
+
+figcaption {
+    font: italic 14px verdana, sans-serif;
+}
+
+table {
+    
+}
+
